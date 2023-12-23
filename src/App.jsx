@@ -22,7 +22,7 @@ function App() {
           <div className="rightApp">
             <div className="rightLanguage">
       </div>
-            dfgd
+            Akbar
 
           </div>
         </div>
