@@ -1,6 +1,4 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import style from './App.module.css'
 import LastTime from './components/footer/LastTime/LastTime'
 import Catalog from './components/header/category/catalog/Catalog'
@@ -22,7 +20,7 @@ function App() {
           <div className="rightApp">
             <div className="rightLanguage">
       </div>
-            kaobradfsfds
+            
 
           </div>
         </div>
@@ -30,9 +28,9 @@ function App() {
      
      {/*Header*/}
      <Routes>
-      <Route path='/' element={<HomePage/>}/>
       <Route path='*' element={<Error/>} /> 
       <Route path='corzina' element={<Corzina/>}/>
+      <Route path='favorite' element={<Izbraone/>}/>
      </Routes>
           {/*Footer*/}
 

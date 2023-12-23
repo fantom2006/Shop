@@ -4,7 +4,7 @@ import './CatalogStyle.scss'
 const Catalog = () => {
     return (
         <div>
-            .ded
+            .defkrjfjrjjreh
         </div>
     );
 }
