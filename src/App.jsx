@@ -29,8 +29,7 @@ function App() {
      {/*Header*/}
      <Routes>
       <Route path='*' element={<Error/>} /> 
-      <Route path='corzina' element={<Corzina/>}/>
-      <Route path='favorite' element={<Izbraone/>}/>
+        <Route path='favorite' element={<Izbraone/>}/>
      </Routes>
           {/*Footer*/}
 
