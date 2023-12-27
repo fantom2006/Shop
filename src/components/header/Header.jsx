@@ -1,7 +1,6 @@
 import React from 'react';
-import './LoginStyle.scss'
 
-const Login = () => {
+const Header = () => {
     return (
         <div>
             
@@ -9,4 +8,4 @@ const Login = () => {
     );
 }
 
-export default Login;
+export default Header;

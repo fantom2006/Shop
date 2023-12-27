@@ -1,7 +1,7 @@
 import React from 'react';
-import './CorzinaStyle.scss'
+import './FooterStyle.scss'
 
-const Corzina = () => {
+const Footer = () => {
     return (
         <div>
             
@@ -9,4 +9,4 @@ const Corzina = () => {
     );
 }
 
-export default Corzina;
+export default Footer;

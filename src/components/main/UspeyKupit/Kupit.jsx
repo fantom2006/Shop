@@ -4,7 +4,7 @@ import './KupitSryle.scss'
 const Kupit = () => {
     return (
         <div>
-            
+            ede
         </div>
     );
 }
