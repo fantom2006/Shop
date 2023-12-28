@@ -5,14 +5,15 @@ import Header from "./components/header/header";
 import Favorite from "./components/header/Favotite"
 import Home from "./HomePage/Home";
 import Corzina from "./components/header/Corzina";
+import Footer from "./components/footer/Footer/Footer"
 
 
 function App() {
   return (
     
       <div>
-        
-
+        <Header/>
+<Footer/>
         
           
       </div>
