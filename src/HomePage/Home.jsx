@@ -8,13 +8,13 @@ const Home = () => {
     return (
         <div>
             <div className="AllS">
-                <Header/>
+                {/* <Header/>
                 <div className="Main">
                     <New/>
                 <Reacomend/>
                 <Shop/>
-                <Kupit/>
-                </div>
+                <Kupit/> */}
+                {/* </div> */}
             </div>
         </div>
     );

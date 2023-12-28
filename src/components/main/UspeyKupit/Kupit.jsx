@@ -1,10 +1,9 @@
-import React from 'react'
-import './KupitSryle.scss'
+import React from 'react';
 
 const Kupit = () => {
     return (
         <div>
-            ede
+            
         </div>
     );
 }

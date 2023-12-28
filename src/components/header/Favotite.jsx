@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Shop = () => {
+const Favotite = () => {
     return (
         <div>
-            gt
+            gfrgr
         </div>
     );
 }
 
-export default Shop;
+export default Favotite;

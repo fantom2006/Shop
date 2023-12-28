@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Shop = () => {
+const Corzina = () => {
     return (
         <div>
-            gt
+            rfr
         </div>
     );
 }
 
-export default Shop;
+export default Corzina;

@@ -4,7 +4,7 @@ import './NewTyle.scss'
 const New = () => {
     return (
         <div>
-            
+            New
         </div>
     );
 }
