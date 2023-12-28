@@ -11,21 +11,10 @@ function App() {
   return (
     
       <div>
-        <header>
-         <Link to='/'>Home</Link>
-         <Link to='/Shop'>Corzina</Link>
-         <Link to='Favorite'>Favorite</Link>
-
-        </header>
+        
 
         
-          <Routes>
-            <Route path="/Shop" element={<Corzina/>}/>
-            <Route path="/Favorite" element={<Favorite/>}/>
-            <Route path="/" element={<Home/>}/>
-
-          </Routes>
-        
+          
       </div>
     
   );
