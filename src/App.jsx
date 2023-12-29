@@ -6,14 +6,17 @@ import Favorite from "./components/header/Favotite"
 import Home from "./HomePage/Home";
 import Corzina from "./components/header/Corzina";
 import Footer from "./components/footer/Footer/Footer"
+import New from "./components/main/New/New";
 
 
 function App() {
   return (
     
-      <div>
+      <div className="Appss">
         <Header/>
-<Footer/>
+        <Home/>
+        <Footer/>
+
         
           
       </div>

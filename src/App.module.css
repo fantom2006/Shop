@@ -1,6 +1,6 @@
 .conteiner {
     width: 1366px;
-    height: 700px;
+    height: 100px;
     background-color: antiquewhite;
     display: flex;
     flex-direction: column;
@@ -9,4 +9,7 @@
   header {
     display: flex;
     gap: 30px;
+  }
+  .Apppa{
+    display: flex;
   }
